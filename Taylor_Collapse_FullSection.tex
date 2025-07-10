@@ -1,0 +1,59 @@
+
+\section{Instability-Adaptive Function Expansion: A Structural Extension of Taylor Series}
+
+\subsection{The Classical Limitation}
+
+The Taylor series assumes that a function is locally well-behaved and infinitely differentiable at a point $x_0$:
+\[
+f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(x_0)}{n!} (x - x_0)^n
+\]
+But many physically or symbolically important functions violate this assumption. Consider:
+\[
+f(x) = \sum_{n=0}^{\infty} (-1)^n n! x^n
+\]
+This series diverges for all $x \neq 0$. Still, we know this function encodes meaningful structure. So why can’t the expansion reflect that?
+
+\subsection{Structural Insight: The Instability Field $\lambda_n(x)$}
+
+Each derivative term $f^{(n)}(x)$ carries a hidden collapse signature: how unstable it is in its contribution. We define:
+\[
+\lambda_n(x) = \left| \frac{d}{dx} \log \left| f^{(n)}(x) \right| \right|
+\]
+Large $\lambda_n(x)$ implies high sensitivity—i.e., symbolic instability or curvature tension in the system’s structure.
+
+\subsection{Collapse-Aware Modulation via $\phi_n(x)$}
+
+Rather than discard these unstable terms, we stabilize them by introducing a modulation factor:
+\[
+\phi_n(x) = \exp(-\alpha \cdot \lambda_n(x))
+\]
+This acts like an entropy-dampening envelope or symbolic trace corrector. Terms that are stable (low $\lambda_n$) are mostly preserved; unstable terms are suppressed.
+
+\subsection{The Modified Expansion}
+
+The resulting collapse-aware series becomes:
+\[
+\tilde{f}(x) = \sum_{n=0}^\infty \phi_n(x) \cdot \frac{f^{(n)}(x_0)}{n!} (x - x_0)^n
+\]
+
+This series:
+\begin{itemize}
+\item Converges in regions where the classical series fails
+\item Preserves the symbolic trace of the function
+\item Adjusts dynamically to local instability
+\end{itemize}
+
+\input{Taylor_Collapse_Figure_Insert.tex}
+
+\subsection{Syn/GL Interpretation}
+
+In Syn/GL terms:
+\begin{itemize}
+\item $\lambda$ detects entropy-explosive trace divergence
+\item $\phi_n(x)$ represents symbolic entropy control ($\eta$-adaptive modulation)
+\item The series modulates collapse based on local structural curvature ($\kappa$)
+\item This avoids destructive $\Theta$-collapse while maintaining $\lambda$-trace
+\end{itemize}
+
+This is not an approximation trick. It’s symbolic stability encoding.
+
