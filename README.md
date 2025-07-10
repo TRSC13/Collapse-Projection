@@ -16,25 +16,6 @@ Each state is modeled as:
 ```
 Ψ₇D = (Θ, λ, η, κ, ϕ, ψ, χ)
 ```
-
----
-
-### 🧭 The 7D Symbolic State Vector
-
-![7D Symbolic State Vector](7_dimensional_symbolic_state_vector.png)
-
-This diagram summarizes the 7 symbolic dimensions governing structural behavior:
-
-- Θ: Collapse / Logic  
-- λ: Memory / Trace  
-- η: Entropy / Variance  
-- κ: Curvature / Structure  
-- ϕ: Phase / Time  
-- ψ: Identity / Persistence  
-- χ: Interference / Coupling
-
----
-
 ---
 
 ## 🔄 Collapse-Aware Taylor Series
