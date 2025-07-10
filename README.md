@@ -47,7 +47,9 @@ This system models structural collapse using a seven-dimensional symbolic operat
 
 Each dimension governs a distinct type of symbolic behavior.
 
-![7D Symbolic State Vector](7_dimensional_symbolic_state_vector.png)
+Each dimension governs a distinct type of symbolic behavior.
+
+<img src="7_dimensional_symbolic_state_vector.png" alt="7D Symbolic State Vector" width="600"/>
 
 ---
 
