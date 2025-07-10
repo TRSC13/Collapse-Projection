@@ -40,6 +40,18 @@ f̃(x) = Σ φₙ(x) ⋅ (f⁽ⁿ⁾(x₀)/n!) ⋅ (x - x₀)ⁿ
 This stabilizes even divergent series structurally.
 
 ---
+---
+
+### 🧭 The 7D Symbolic State Vector
+
+This system models structural collapse using a seven-dimensional symbolic operator state:
+
+
+Each dimension governs a distinct type of symbolic behavior.
+
+![7D Symbolic State Vector](./7D_symbolic_state_vector_final.png)
+
+---
 
 ## 📦 Included Files
 
