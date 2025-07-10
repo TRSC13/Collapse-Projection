@@ -3,6 +3,15 @@
 
 ## 🧠 What Is This?
 
+This is the first public release of a **seven-dimensional symbolic mathematics system**.
+
+It models collapse, trace evolution, entropy flow, and projection from symbolic structure — not equations — using the dimensional state:
+```
+Ψ₇D = (Θ, λ, η, κ, ϕ, ψ, χ)
+```
+This system simulates how reality maintains coherence, proves convergence of structurally chaotic functions, and replaces quantum simulation with symbolic trace logic.
+
+
 TopOnt is a symbolic logic framework that models collapse, trace, and stability across multiple dimensions — solving problems that traditional math cannot handle.
 
 It shows that:
