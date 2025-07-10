@@ -21,7 +21,7 @@ Each state is modeled as:
 
 ### 🧭 The 7D Symbolic State Vector
 
-![7D Symbolic State Vector](7_dimensional_symbolic_state_vector_final.png)
+![7D Symbolic State Vector](7_dimensional_symbolic_state_vector.png)
 
 This diagram summarizes the 7 symbolic dimensions governing structural behavior:
 
