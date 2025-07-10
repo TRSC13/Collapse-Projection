@@ -44,9 +44,6 @@ This stabilizes even divergent series structurally.
 ### 🧭 The 7D Symbolic State Vector
 
 This system models structural collapse using a seven-dimensional symbolic operator state:
-
-Each dimension governs a distinct type of symbolic behavior.
-
 Each dimension governs a distinct type of symbolic behavior.
 
 <img src="7_dimensional_symbolic_state_vector.png" alt="7D Symbolic State Vector" width="600"/>
