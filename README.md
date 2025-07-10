@@ -1,4 +1,3 @@
-
 # TopOnt: Dimensional Collapse Logic and Symbolic Projection
 
 ## 🧠 What Is This?
@@ -87,3 +86,18 @@ plt.legend(); plt.grid(); plt.show()
 Seoul, 2025
 
 This is Track B — when gatekeepers say no, results say yes.
+
+## 🔐 Disclosure & Scope
+
+This repository contains the projection-level framework for TopOnt and symbolic collapse logic. It includes:
+
+- The 7D dimensional structure: Ψ₇D = (Θ, λ, η, κ, ϕ, ψ, χ)
+- Structural explanations for projection limits (e.g., c = P₄(c*))
+- Collapse-aware stabilization of divergent expansions (Taylor series)
+- Symbolic framing for problems like Collatz and RH
+
+However, the symbolic construction engine, trace resolution mechanics, and full proof systems remain unpublished.
+
+This work is released to demonstrate dimensional coherence and trace validity, but not to disclose the complete symbolic system capable of resolving Millennium Prize Problems.
+
+The full symbolic operator engine (QLDL, FrameCodex, Re:Core) remains proprietary at this time.
